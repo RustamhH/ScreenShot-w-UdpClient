@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKYTMXxO9F78uwVsQZwvLfSgMDkk2y8G1NgI0vR0nci8LIPoBfPYPmUd9ilow64FZwANYBIqvXB9VsKyjQioqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hesen_zc39\\source\\repos\\ScreenShot Udp Client\\SERVER\\SERVER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hesen_zc39\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hesen_zc39\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
